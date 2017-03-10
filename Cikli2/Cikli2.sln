@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diamond", "diamond\diamond.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle", "Castle\Castle.csproj", "{3C2ADDC2-187D-4E55-9D4C-EE10A568DB78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "butterfly", "butterfly\butterfly.csproj", "{173D34B0-E848-4B8E-ADBB-0B3AB60E0D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop_sign", "Stop_sign\Stop_sign.csproj", "{88DADE90-70B8-434E-996A-C046B2239AC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{3C2ADDC2-187D-4E55-9D4C-EE10A568DB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C2ADDC2-187D-4E55-9D4C-EE10A568DB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C2ADDC2-187D-4E55-9D4C-EE10A568DB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173D34B0-E848-4B8E-ADBB-0B3AB60E0D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173D34B0-E848-4B8E-ADBB-0B3AB60E0D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173D34B0-E848-4B8E-ADBB-0B3AB60E0D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173D34B0-E848-4B8E-ADBB-0B3AB60E0D19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DADE90-70B8-434E-996A-C046B2239AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DADE90-70B8-434E-996A-C046B2239AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DADE90-70B8-434E-996A-C046B2239AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DADE90-70B8-434E-996A-C046B2239AC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
