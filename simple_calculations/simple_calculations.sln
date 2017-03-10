@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "radians_to_degrees", "radia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "usd_to_bgn", "usd_to_bgn\usd_to_bgn.csproj", "{A1411546-2C36-4C5E-B6A5-CDA757F4BF45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proba", "proba\proba.csproj", "{BF80A03C-DB46-4205-925C-614613EA71EC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A1411546-2C36-4C5E-B6A5-CDA757F4BF45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1411546-2C36-4C5E-B6A5-CDA757F4BF45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1411546-2C36-4C5E-B6A5-CDA757F4BF45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF80A03C-DB46-4205-925C-614613EA71EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF80A03C-DB46-4205-925C-614613EA71EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF80A03C-DB46-4205-925C-614613EA71EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF80A03C-DB46-4205-925C-614613EA71EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
