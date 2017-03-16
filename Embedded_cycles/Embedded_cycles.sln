@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stupid_password_gen", "stupid_password_gen\stupid_password_gen.csproj", "{3A5FC43B-D861-4FDE-908C-D458034BD42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "magic_numbers", "magic_numbers\magic_numbers.csproj", "{AEF0798A-D810-4141-A44F-DF62845FCE31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "special_numbers", "special_numbers\special_numbers.csproj", "{7C65BCB2-9215-46C0-8CE5-EB7EED10520E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A5FC43B-D861-4FDE-908C-D458034BD42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A5FC43B-D861-4FDE-908C-D458034BD42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A5FC43B-D861-4FDE-908C-D458034BD42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A5FC43B-D861-4FDE-908C-D458034BD42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF0798A-D810-4141-A44F-DF62845FCE31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF0798A-D810-4141-A44F-DF62845FCE31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF0798A-D810-4141-A44F-DF62845FCE31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF0798A-D810-4141-A44F-DF62845FCE31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C65BCB2-9215-46C0-8CE5-EB7EED10520E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C65BCB2-9215-46C0-8CE5-EB7EED10520E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C65BCB2-9215-46C0-8CE5-EB7EED10520E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C65BCB2-9215-46C0-8CE5-EB7EED10520E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
